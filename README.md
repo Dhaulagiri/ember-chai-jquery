@@ -1,8 +1,6 @@
-**As of [this commit](https://github.com/ember-cli/ember-cli-mocha/pull/143) to ember-cli-mocha this addon is not needed any longer**
-
 # ember-chai-jquery
 
-This addon adds support for [chai jquery](https://github.com/chaijs/chai-jquery) in your Ember CLI app
+**DEPRECATED!** This addon is deprecated in favor of [ember-cli-chai](https://github.com/ember-cli/ember-cli-chai), which imports [chai-jquery](https://github.com/chaijs/chai-jquery) automatically if available.
 
 ## Installation
 
